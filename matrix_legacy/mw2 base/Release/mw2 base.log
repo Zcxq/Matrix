@@ -1,0 +1,83 @@
+﻿  dllmain.cpp
+C:\Users\ltvph\Desktop\modding shit\Projects\new mw2 menu\mw2 base\resizing.h(24,27): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\ltvph\Desktop\modding shit\Projects\new mw2 menu\mw2 base\tpOptions.h(31,17): warning C4838: conversion from '__int64' to 'float' requires a narrowing conversion
+C:\Users\ltvph\Desktop\modding shit\Projects\new mw2 menu\mw2 base\tpOptions.h(31,34): warning C4305: 'initializing': truncation from '__int64' to 'float'
+C:\Users\ltvph\Desktop\modding shit\Projects\new mw2 menu\mw2 base\tpOptions.h(36,40): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\ltvph\Desktop\modding shit\Projects\new mw2 menu\mw2 base\misc.h(321,28): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\ltvph\Desktop\modding shit\Projects\new mw2 menu\mw2 base\menuBuilding.h(93,102): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\ltvph\Desktop\modding shit\Projects\new mw2 menu\mw2 base\menuBuilding.h(93,98): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\ltvph\Desktop\modding shit\Projects\new mw2 menu\mw2 base\menuBuilding.h(93,94): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\ltvph\Desktop\modding shit\Projects\new mw2 menu\mw2 base\menuBuilding.h(93,42): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\ltvph\Desktop\modding shit\Projects\new mw2 menu\mw2 base\menuBuilding.h(97,114): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\ltvph\Desktop\modding shit\Projects\new mw2 menu\mw2 base\menuBuilding.h(97,111): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\ltvph\Desktop\modding shit\Projects\new mw2 menu\mw2 base\menuBuilding.h(97,108): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\ltvph\Desktop\modding shit\Projects\new mw2 menu\mw2 base\main.h(215,76): warning C4244: 'argument': conversion from '__int64' to 'int', possible loss of data
+C:\Users\ltvph\Desktop\modding shit\Projects\new mw2 menu\mw2 base\main.h(267,84): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\ltvph\Desktop\modding shit\Projects\new mw2 menu\mw2 base\main.h(267,158): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\ltvph\Desktop\modding shit\Projects\new mw2 menu\mw2 base\main.h(271,81): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\ltvph\Desktop\modding shit\Projects\new mw2 menu\mw2 base\main.h(271,150): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\ltvph\Desktop\modding shit\Projects\new mw2 menu\mw2 base\main.h(275,83): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\ltvph\Desktop\modding shit\Projects\new mw2 menu\mw2 base\main.h(275,179): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\ltvph\Desktop\modding shit\Projects\new mw2 menu\mw2 base\main.h(413,17): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\ltvph\Desktop\modding shit\Projects\new mw2 menu\mw2 base\dllmain.cpp(68,100): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\ltvph\Desktop\modding shit\Projects\new mw2 menu\mw2 base\dllmain.cpp(68,97): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\ltvph\Desktop\modding shit\Projects\new mw2 menu\mw2 base\dllmain.cpp(68,94): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\ltvph\Desktop\modding shit\Projects\new mw2 menu\mw2 base\dllmain.cpp(68,124): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\ltvph\Desktop\modding shit\Projects\new mw2 menu\mw2 base\dllmain.cpp(82,117): warning C4474: 'printf' : too many arguments passed for format string
+C:\Users\ltvph\Desktop\modding shit\Projects\new mw2 menu\mw2 base\dllmain.cpp(82,117): message : placeholders and their parameters expect 0 variadic arguments, but 1 were provided
+C:\Users\ltvph\Desktop\modding shit\Projects\new mw2 menu\mw2 base\dllmain.cpp(83,117): warning C4474: 'printf' : too many arguments passed for format string
+C:\Users\ltvph\Desktop\modding shit\Projects\new mw2 menu\mw2 base\dllmain.cpp(83,117): message : placeholders and their parameters expect 0 variadic arguments, but 1 were provided
+C:\Users\ltvph\Desktop\modding shit\Projects\new mw2 menu\mw2 base\dllmain.cpp(84,117): warning C4474: 'printf' : too many arguments passed for format string
+C:\Users\ltvph\Desktop\modding shit\Projects\new mw2 menu\mw2 base\dllmain.cpp(84,117): message : placeholders and their parameters expect 0 variadic arguments, but 1 were provided
+C:\Users\ltvph\Desktop\modding shit\Projects\new mw2 menu\mw2 base\dllmain.cpp(85,117): warning C4474: 'printf' : too many arguments passed for format string
+C:\Users\ltvph\Desktop\modding shit\Projects\new mw2 menu\mw2 base\dllmain.cpp(85,117): message : placeholders and their parameters expect 0 variadic arguments, but 1 were provided
+C:\Users\ltvph\Desktop\modding shit\Projects\new mw2 menu\mw2 base\dllmain.cpp(86,117): warning C4474: 'printf' : too many arguments passed for format string
+C:\Users\ltvph\Desktop\modding shit\Projects\new mw2 menu\mw2 base\dllmain.cpp(86,117): message : placeholders and their parameters expect 0 variadic arguments, but 1 were provided
+C:\Users\ltvph\Desktop\modding shit\Projects\new mw2 menu\mw2 base\dllmain.cpp(87,117): warning C4474: 'printf' : too many arguments passed for format string
+C:\Users\ltvph\Desktop\modding shit\Projects\new mw2 menu\mw2 base\dllmain.cpp(87,117): message : placeholders and their parameters expect 0 variadic arguments, but 1 were provided
+C:\Users\ltvph\Desktop\modding shit\Projects\new mw2 menu\mw2 base\dllmain.cpp(88,117): warning C4474: 'printf' : too many arguments passed for format string
+C:\Users\ltvph\Desktop\modding shit\Projects\new mw2 menu\mw2 base\dllmain.cpp(88,117): message : placeholders and their parameters expect 0 variadic arguments, but 1 were provided
+C:\Users\ltvph\Desktop\modding shit\Projects\new mw2 menu\mw2 base\dllmain.cpp(89,117): warning C4474: 'printf' : too many arguments passed for format string
+C:\Users\ltvph\Desktop\modding shit\Projects\new mw2 menu\mw2 base\dllmain.cpp(89,117): message : placeholders and their parameters expect 0 variadic arguments, but 1 were provided
+C:\Users\ltvph\Desktop\modding shit\Projects\new mw2 menu\mw2 base\dllmain.cpp(90,117): warning C4474: 'printf' : too many arguments passed for format string
+C:\Users\ltvph\Desktop\modding shit\Projects\new mw2 menu\mw2 base\dllmain.cpp(90,117): message : placeholders and their parameters expect 0 variadic arguments, but 1 were provided
+C:\Users\ltvph\Desktop\modding shit\Projects\new mw2 menu\mw2 base\dllmain.cpp(91,117): warning C4474: 'printf' : too many arguments passed for format string
+C:\Users\ltvph\Desktop\modding shit\Projects\new mw2 menu\mw2 base\dllmain.cpp(91,117): message : placeholders and their parameters expect 0 variadic arguments, but 1 were provided
+C:\Users\ltvph\Desktop\modding shit\Projects\new mw2 menu\mw2 base\dllmain.cpp(92,117): warning C4474: 'printf' : too many arguments passed for format string
+C:\Users\ltvph\Desktop\modding shit\Projects\new mw2 menu\mw2 base\dllmain.cpp(92,117): message : placeholders and their parameters expect 0 variadic arguments, but 1 were provided
+C:\Users\ltvph\Desktop\modding shit\Projects\new mw2 menu\mw2 base\dllmain.cpp(93,117): warning C4474: 'printf' : too many arguments passed for format string
+C:\Users\ltvph\Desktop\modding shit\Projects\new mw2 menu\mw2 base\dllmain.cpp(93,117): message : placeholders and their parameters expect 0 variadic arguments, but 1 were provided
+C:\Users\ltvph\Desktop\modding shit\Projects\new mw2 menu\mw2 base\dllmain.cpp(94,117): warning C4474: 'printf' : too many arguments passed for format string
+C:\Users\ltvph\Desktop\modding shit\Projects\new mw2 menu\mw2 base\dllmain.cpp(94,117): message : placeholders and their parameters expect 0 variadic arguments, but 1 were provided
+C:\Users\ltvph\Desktop\modding shit\Projects\new mw2 menu\mw2 base\dllmain.cpp(95,117): warning C4474: 'printf' : too many arguments passed for format string
+C:\Users\ltvph\Desktop\modding shit\Projects\new mw2 menu\mw2 base\dllmain.cpp(95,117): message : placeholders and their parameters expect 0 variadic arguments, but 1 were provided
+C:\Users\ltvph\Desktop\modding shit\Projects\new mw2 menu\mw2 base\dllmain.cpp(96,117): warning C4474: 'printf' : too many arguments passed for format string
+C:\Users\ltvph\Desktop\modding shit\Projects\new mw2 menu\mw2 base\dllmain.cpp(96,117): message : placeholders and their parameters expect 0 variadic arguments, but 1 were provided
+C:\Users\ltvph\Desktop\modding shit\Projects\new mw2 menu\mw2 base\dllmain.cpp(97,117): warning C4474: 'printf' : too many arguments passed for format string
+C:\Users\ltvph\Desktop\modding shit\Projects\new mw2 menu\mw2 base\dllmain.cpp(97,117): message : placeholders and their parameters expect 0 variadic arguments, but 1 were provided
+C:\Users\ltvph\Desktop\modding shit\Projects\new mw2 menu\mw2 base\dllmain.cpp(98,117): warning C4474: 'printf' : too many arguments passed for format string
+C:\Users\ltvph\Desktop\modding shit\Projects\new mw2 menu\mw2 base\dllmain.cpp(98,117): message : placeholders and their parameters expect 0 variadic arguments, but 1 were provided
+C:\Users\ltvph\Desktop\modding shit\Projects\new mw2 menu\mw2 base\dllmain.cpp(99,117): warning C4474: 'printf' : too many arguments passed for format string
+C:\Users\ltvph\Desktop\modding shit\Projects\new mw2 menu\mw2 base\dllmain.cpp(99,117): message : placeholders and their parameters expect 0 variadic arguments, but 1 were provided
+  Generating code
+    link!InvokeCompilerPass()+0x30069
+    link!InvokeCompilerPass()+0x30336
+    link!InvokeCompilerPass()+0x2ede6
+    link!InvokeCompilerPass()+0x2e9ad
+    link!InvokeCompilerPass()+0x2ebff
+    link!InvokeCompilerPass()+0x2e9ad
+    link!InvokeCompilerPass()+0x2ebff
+    link!InvokeCompilerPass()+0x2e9ad
+    link!InvokeCompilerPass()+0x2ef8e
+    link!InvokeCompilerPass()+0x2f015
+    link!InvokeCompilerPass()+0x32fde
+    link!InvokeCompilerPass()+0x329bc
+    link!CloseTypeServerPDB()+0xd28e4
+  
+c:\users\ltvph\desktop\modding shit\projects\new mw2 menu\mw2 base\pch.cpp : fatal error C1001: Internal compiler error.
+  (compiler file 'd:\a01\_work\4\s\src\vctools\Compiler\Utc\src\p2\main.c', line 220)
+   To work around this problem, try simplifying or changing the program near the locations listed above.
+  If possible please provide a repro here: https://developercommunity.visualstudio.com 
+  Please choose the Technical Support command on the Visual C++ 
+   Help menu, or open the Technical Support help file for more information
+LINK : fatal error LNK1000: Internal error during IMAGE::BuildImage

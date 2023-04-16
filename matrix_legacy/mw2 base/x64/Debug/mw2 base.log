@@ -1,0 +1,52 @@
+﻿  dllmain.cpp
+C:\Users\ltvph\source\repos\mw2 base\mw2 base\main.h(182,31): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\ltvph\source\repos\mw2 base\mw2 base\main.h(183,29): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\ltvph\source\repos\mw2 base\mw2 base\main.h(184,30): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\ltvph\source\repos\mw2 base\mw2 base\main.h(187,22): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\ltvph\source\repos\mw2 base\mw2 base\main.h(188,18): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\ltvph\source\repos\mw2 base\mw2 base\main.h(191,32): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\ltvph\source\repos\mw2 base\mw2 base\main.h(192,30): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\ltvph\source\repos\mw2 base\mw2 base\main.h(193,31): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\ltvph\source\repos\mw2 base\mw2 base\main.h(196,23): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\ltvph\source\repos\mw2 base\mw2 base\main.h(197,19): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\ltvph\source\repos\mw2 base\mw2 base\main.h(201,32): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\ltvph\source\repos\mw2 base\mw2 base\main.h(202,30): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\ltvph\source\repos\mw2 base\mw2 base\main.h(203,31): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\ltvph\source\repos\mw2 base\mw2 base\main.h(206,23): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\ltvph\source\repos\mw2 base\mw2 base\main.h(207,19): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\ltvph\source\repos\mw2 base\mw2 base\main.h(211,32): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\ltvph\source\repos\mw2 base\mw2 base\main.h(212,30): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\ltvph\source\repos\mw2 base\mw2 base\main.h(213,31): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\ltvph\source\repos\mw2 base\mw2 base\main.h(216,23): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\ltvph\source\repos\mw2 base\mw2 base\main.h(217,19): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\ltvph\source\repos\mw2 base\mw2 base\main.h(221,32): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\ltvph\source\repos\mw2 base\mw2 base\main.h(222,30): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\ltvph\source\repos\mw2 base\mw2 base\main.h(223,31): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\ltvph\source\repos\mw2 base\mw2 base\main.h(226,23): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\ltvph\source\repos\mw2 base\mw2 base\main.h(227,19): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\ltvph\source\repos\mw2 base\mw2 base\main.h(231,32): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\ltvph\source\repos\mw2 base\mw2 base\main.h(232,30): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\ltvph\source\repos\mw2 base\mw2 base\main.h(233,31): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\ltvph\source\repos\mw2 base\mw2 base\main.h(236,23): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\ltvph\source\repos\mw2 base\mw2 base\main.h(237,19): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\ltvph\source\repos\mw2 base\mw2 base\main.h(241,32): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\ltvph\source\repos\mw2 base\mw2 base\main.h(242,30): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\ltvph\source\repos\mw2 base\mw2 base\main.h(243,31): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\ltvph\source\repos\mw2 base\mw2 base\main.h(246,23): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\ltvph\source\repos\mw2 base\mw2 base\main.h(247,19): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\ltvph\source\repos\mw2 base\mw2 base\main.h(268,77): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\ltvph\source\repos\mw2 base\mw2 base\main.h(270,84): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\ltvph\source\repos\mw2 base\mw2 base\main.h(271,85): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\ltvph\source\repos\mw2 base\mw2 base\main.h(272,86): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\ltvph\source\repos\mw2 base\mw2 base\main.h(273,86): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\ltvph\source\repos\mw2 base\mw2 base\main.h(274,88): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\ltvph\source\repos\mw2 base\mw2 base\main.h(275,86): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\ltvph\source\repos\mw2 base\mw2 base\main.h(282,23): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\ltvph\source\repos\mw2 base\mw2 base\main.h(286,23): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\ltvph\source\repos\mw2 base\mw2 base\dllmain.cpp(16,139): warning C4305: 'argument': truncation from 'double' to 'float'
+dllmain.obj : error LNK2019: unresolved external symbol DetourTransactionBegin referenced in function DllMain
+dllmain.obj : error LNK2019: unresolved external symbol DetourTransactionCommit referenced in function DllMain
+dllmain.obj : error LNK2019: unresolved external symbol DetourUpdateThread referenced in function DllMain
+dllmain.obj : error LNK2019: unresolved external symbol DetourAttach referenced in function DllMain
+dllmain.obj : error LNK2019: unresolved external symbol DetourDetach referenced in function DllMain
+C:\Users\ltvph\source\repos\mw2 base\x64\Debug\mw2 base.dll : fatal error LNK1120: 5 unresolved externals

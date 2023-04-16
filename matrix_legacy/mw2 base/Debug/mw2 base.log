@@ -1,0 +1,110 @@
+﻿  pch.cpp
+  dllmain.cpp
+C:\Users\conno\OneDrive\Desktop\matrix_legacy\mw2 base\resizing.h(24,27): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\conno\OneDrive\Desktop\matrix_legacy\mw2 base\tpOptions.h(31,17): warning C4838: conversion from '__int64' to 'float' requires a narrowing conversion
+C:\Users\conno\OneDrive\Desktop\matrix_legacy\mw2 base\tpOptions.h(31,34): warning C4305: 'initializing': truncation from '__int64' to 'float'
+C:\Users\conno\OneDrive\Desktop\matrix_legacy\mw2 base\tpOptions.h(36,40): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\conno\OneDrive\Desktop\matrix_legacy\mw2 base\misc.h(321,28): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\conno\OneDrive\Desktop\matrix_legacy\mw2 base\menuBuilding.h(93,102): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\conno\OneDrive\Desktop\matrix_legacy\mw2 base\menuBuilding.h(93,98): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\conno\OneDrive\Desktop\matrix_legacy\mw2 base\menuBuilding.h(93,94): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\conno\OneDrive\Desktop\matrix_legacy\mw2 base\menuBuilding.h(93,42): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\conno\OneDrive\Desktop\matrix_legacy\mw2 base\menuBuilding.h(97,114): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\conno\OneDrive\Desktop\matrix_legacy\mw2 base\menuBuilding.h(97,111): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\conno\OneDrive\Desktop\matrix_legacy\mw2 base\menuBuilding.h(97,108): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\conno\OneDrive\Desktop\matrix_legacy\mw2 base\main.h(179,67): warning C4305: '=': truncation from '__int64' to 'int32_t'
+C:\Users\conno\OneDrive\Desktop\matrix_legacy\mw2 base\main.h(179,55): warning C4309: '=': truncation of constant value
+C:\Users\conno\OneDrive\Desktop\matrix_legacy\mw2 base\main.h(179,97): warning C4305: '=': truncation from '__int64' to 'int32_t'
+C:\Users\conno\OneDrive\Desktop\matrix_legacy\mw2 base\main.h(179,85): warning C4309: '=': truncation of constant value
+C:\Users\conno\OneDrive\Desktop\matrix_legacy\mw2 base\main.h(179,128): warning C4305: '=': truncation from '__int64' to 'int32_t'
+C:\Users\conno\OneDrive\Desktop\matrix_legacy\mw2 base\main.h(179,116): warning C4309: '=': truncation of constant value
+C:\Users\conno\OneDrive\Desktop\matrix_legacy\mw2 base\main.h(179,158): warning C4305: '=': truncation from '__int64' to 'int32_t'
+C:\Users\conno\OneDrive\Desktop\matrix_legacy\mw2 base\main.h(179,145): warning C4309: '=': truncation of constant value
+C:\Users\conno\OneDrive\Desktop\matrix_legacy\mw2 base\main.h(180,34): warning C4305: '=': truncation from '__int64' to 'int32_t'
+C:\Users\conno\OneDrive\Desktop\matrix_legacy\mw2 base\main.h(180,21): warning C4309: '=': truncation of constant value
+C:\Users\conno\OneDrive\Desktop\matrix_legacy\mw2 base\main.h(180,65): warning C4305: '=': truncation from '__int64' to 'int32_t'
+C:\Users\conno\OneDrive\Desktop\matrix_legacy\mw2 base\main.h(180,52): warning C4309: '=': truncation of constant value
+C:\Users\conno\OneDrive\Desktop\matrix_legacy\mw2 base\main.h(180,100): warning C4305: '=': truncation from '__int64' to 'int32_t'
+C:\Users\conno\OneDrive\Desktop\matrix_legacy\mw2 base\main.h(180,87): warning C4309: '=': truncation of constant value
+C:\Users\conno\OneDrive\Desktop\matrix_legacy\mw2 base\main.h(180,130): warning C4305: '=': truncation from '__int64' to 'int32_t'
+C:\Users\conno\OneDrive\Desktop\matrix_legacy\mw2 base\main.h(180,117): warning C4309: '=': truncation of constant value
+C:\Users\conno\OneDrive\Desktop\matrix_legacy\mw2 base\main.h(180,162): warning C4305: '=': truncation from '__int64' to 'int32_t'
+C:\Users\conno\OneDrive\Desktop\matrix_legacy\mw2 base\main.h(180,149): warning C4309: '=': truncation of constant value
+C:\Users\conno\OneDrive\Desktop\matrix_legacy\mw2 base\main.h(180,195): warning C4305: '=': truncation from '__int64' to 'int32_t'
+C:\Users\conno\OneDrive\Desktop\matrix_legacy\mw2 base\main.h(180,182): warning C4309: '=': truncation of constant value
+C:\Users\conno\OneDrive\Desktop\matrix_legacy\mw2 base\main.h(181,37): warning C4305: '=': truncation from '__int64' to 'int32_t'
+C:\Users\conno\OneDrive\Desktop\matrix_legacy\mw2 base\main.h(181,24): warning C4309: '=': truncation of constant value
+C:\Users\conno\OneDrive\Desktop\matrix_legacy\mw2 base\main.h(181,70): warning C4305: '=': truncation from '__int64' to 'int32_t'
+C:\Users\conno\OneDrive\Desktop\matrix_legacy\mw2 base\main.h(181,57): warning C4309: '=': truncation of constant value
+C:\Users\conno\OneDrive\Desktop\matrix_legacy\mw2 base\main.h(181,105): warning C4305: '=': truncation from '__int64' to 'int32_t'
+C:\Users\conno\OneDrive\Desktop\matrix_legacy\mw2 base\main.h(181,92): warning C4309: '=': truncation of constant value
+C:\Users\conno\OneDrive\Desktop\matrix_legacy\mw2 base\main.h(181,132): warning C4305: '=': truncation from '__int64' to 'int32_t'
+C:\Users\conno\OneDrive\Desktop\matrix_legacy\mw2 base\main.h(181,120): warning C4309: '=': truncation of constant value
+C:\Users\conno\OneDrive\Desktop\matrix_legacy\mw2 base\main.h(181,165): warning C4305: '=': truncation from '__int64' to 'int32_t'
+C:\Users\conno\OneDrive\Desktop\matrix_legacy\mw2 base\main.h(181,153): warning C4309: '=': truncation of constant value
+C:\Users\conno\OneDrive\Desktop\matrix_legacy\mw2 base\main.h(223,76): warning C4244: 'argument': conversion from '__int64' to 'int', possible loss of data
+C:\Users\conno\OneDrive\Desktop\matrix_legacy\mw2 base\main.h(277,85): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\conno\OneDrive\Desktop\matrix_legacy\mw2 base\main.h(277,159): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\conno\OneDrive\Desktop\matrix_legacy\mw2 base\main.h(281,81): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\conno\OneDrive\Desktop\matrix_legacy\mw2 base\main.h(281,151): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\conno\OneDrive\Desktop\matrix_legacy\mw2 base\main.h(285,82): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\conno\OneDrive\Desktop\matrix_legacy\mw2 base\main.h(285,178): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\conno\OneDrive\Desktop\matrix_legacy\mw2 base\main.h(419,17): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\conno\OneDrive\Desktop\matrix_legacy\mw2 base\dllmain.cpp(68,100): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\conno\OneDrive\Desktop\matrix_legacy\mw2 base\dllmain.cpp(68,97): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\conno\OneDrive\Desktop\matrix_legacy\mw2 base\dllmain.cpp(68,94): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\conno\OneDrive\Desktop\matrix_legacy\mw2 base\dllmain.cpp(68,124): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\conno\OneDrive\Desktop\matrix_legacy\mw2 base\dllmain.cpp(81,77): warning C4474: 'printf' : too many arguments passed for format string
+C:\Users\conno\OneDrive\Desktop\matrix_legacy\mw2 base\dllmain.cpp(81,77): message : placeholders and their parameters expect 0 variadic arguments, but 1 were provided
+C:\Users\conno\OneDrive\Desktop\matrix_legacy\mw2 base\dllmain.cpp(82,77): warning C4474: 'printf' : too many arguments passed for format string
+C:\Users\conno\OneDrive\Desktop\matrix_legacy\mw2 base\dllmain.cpp(82,77): message : placeholders and their parameters expect 0 variadic arguments, but 1 were provided
+C:\Users\conno\OneDrive\Desktop\matrix_legacy\mw2 base\dllmain.cpp(83,77): warning C4474: 'printf' : too many arguments passed for format string
+C:\Users\conno\OneDrive\Desktop\matrix_legacy\mw2 base\dllmain.cpp(83,77): message : placeholders and their parameters expect 0 variadic arguments, but 1 were provided
+C:\Users\conno\OneDrive\Desktop\matrix_legacy\mw2 base\dllmain.cpp(84,77): warning C4474: 'printf' : too many arguments passed for format string
+C:\Users\conno\OneDrive\Desktop\matrix_legacy\mw2 base\dllmain.cpp(84,77): message : placeholders and their parameters expect 0 variadic arguments, but 1 were provided
+C:\Users\conno\OneDrive\Desktop\matrix_legacy\mw2 base\dllmain.cpp(85,77): warning C4474: 'printf' : too many arguments passed for format string
+C:\Users\conno\OneDrive\Desktop\matrix_legacy\mw2 base\dllmain.cpp(85,77): message : placeholders and their parameters expect 0 variadic arguments, but 1 were provided
+C:\Users\conno\OneDrive\Desktop\matrix_legacy\mw2 base\dllmain.cpp(86,77): warning C4474: 'printf' : too many arguments passed for format string
+C:\Users\conno\OneDrive\Desktop\matrix_legacy\mw2 base\dllmain.cpp(86,77): message : placeholders and their parameters expect 0 variadic arguments, but 1 were provided
+C:\Users\conno\OneDrive\Desktop\matrix_legacy\mw2 base\dllmain.cpp(87,77): warning C4474: 'printf' : too many arguments passed for format string
+C:\Users\conno\OneDrive\Desktop\matrix_legacy\mw2 base\dllmain.cpp(87,77): message : placeholders and their parameters expect 0 variadic arguments, but 1 were provided
+C:\Users\conno\OneDrive\Desktop\matrix_legacy\mw2 base\dllmain.cpp(88,77): warning C4474: 'printf' : too many arguments passed for format string
+C:\Users\conno\OneDrive\Desktop\matrix_legacy\mw2 base\dllmain.cpp(88,77): message : placeholders and their parameters expect 0 variadic arguments, but 1 were provided
+C:\Users\conno\OneDrive\Desktop\matrix_legacy\mw2 base\dllmain.cpp(89,77): warning C4474: 'printf' : too many arguments passed for format string
+C:\Users\conno\OneDrive\Desktop\matrix_legacy\mw2 base\dllmain.cpp(89,77): message : placeholders and their parameters expect 0 variadic arguments, but 1 were provided
+C:\Users\conno\OneDrive\Desktop\matrix_legacy\mw2 base\dllmain.cpp(90,77): warning C4474: 'printf' : too many arguments passed for format string
+C:\Users\conno\OneDrive\Desktop\matrix_legacy\mw2 base\dllmain.cpp(90,77): message : placeholders and their parameters expect 0 variadic arguments, but 1 were provided
+C:\Users\conno\OneDrive\Desktop\matrix_legacy\mw2 base\dllmain.cpp(91,77): warning C4474: 'printf' : too many arguments passed for format string
+C:\Users\conno\OneDrive\Desktop\matrix_legacy\mw2 base\dllmain.cpp(91,77): message : placeholders and their parameters expect 0 variadic arguments, but 1 were provided
+C:\Users\conno\OneDrive\Desktop\matrix_legacy\mw2 base\dllmain.cpp(92,77): warning C4474: 'printf' : too many arguments passed for format string
+C:\Users\conno\OneDrive\Desktop\matrix_legacy\mw2 base\dllmain.cpp(92,77): message : placeholders and their parameters expect 0 variadic arguments, but 1 were provided
+C:\Users\conno\OneDrive\Desktop\matrix_legacy\mw2 base\dllmain.cpp(93,77): warning C4474: 'printf' : too many arguments passed for format string
+C:\Users\conno\OneDrive\Desktop\matrix_legacy\mw2 base\dllmain.cpp(93,77): message : placeholders and their parameters expect 0 variadic arguments, but 1 were provided
+C:\Users\conno\OneDrive\Desktop\matrix_legacy\mw2 base\dllmain.cpp(94,77): warning C4474: 'printf' : too many arguments passed for format string
+C:\Users\conno\OneDrive\Desktop\matrix_legacy\mw2 base\dllmain.cpp(94,77): message : placeholders and their parameters expect 0 variadic arguments, but 1 were provided
+C:\Users\conno\OneDrive\Desktop\matrix_legacy\mw2 base\dllmain.cpp(95,77): warning C4474: 'printf' : too many arguments passed for format string
+C:\Users\conno\OneDrive\Desktop\matrix_legacy\mw2 base\dllmain.cpp(95,77): message : placeholders and their parameters expect 0 variadic arguments, but 1 were provided
+C:\Users\conno\OneDrive\Desktop\matrix_legacy\mw2 base\dllmain.cpp(96,77): warning C4474: 'printf' : too many arguments passed for format string
+C:\Users\conno\OneDrive\Desktop\matrix_legacy\mw2 base\dllmain.cpp(96,77): message : placeholders and their parameters expect 0 variadic arguments, but 1 were provided
+C:\Users\conno\OneDrive\Desktop\matrix_legacy\mw2 base\dllmain.cpp(97,77): warning C4474: 'printf' : too many arguments passed for format string
+C:\Users\conno\OneDrive\Desktop\matrix_legacy\mw2 base\dllmain.cpp(97,77): message : placeholders and their parameters expect 0 variadic arguments, but 1 were provided
+C:\Users\conno\OneDrive\Desktop\matrix_legacy\mw2 base\dllmain.cpp(98,77): warning C4474: 'printf' : too many arguments passed for format string
+C:\Users\conno\OneDrive\Desktop\matrix_legacy\mw2 base\dllmain.cpp(98,77): message : placeholders and their parameters expect 0 variadic arguments, but 1 were provided
+C:\Users\conno\OneDrive\Desktop\matrix_legacy\mw2 base\dllmain.cpp(99,77): warning C4474: 'printf' : too many arguments passed for format string
+C:\Users\conno\OneDrive\Desktop\matrix_legacy\mw2 base\dllmain.cpp(99,77): message : placeholders and their parameters expect 0 variadic arguments, but 1 were provided
+C:\Users\conno\OneDrive\Desktop\matrix_legacy\mw2 base\dllmain.cpp(100,77): warning C4474: 'printf' : too many arguments passed for format string
+C:\Users\conno\OneDrive\Desktop\matrix_legacy\mw2 base\dllmain.cpp(100,77): message : placeholders and their parameters expect 0 variadic arguments, but 1 were provided
+C:\Users\conno\OneDrive\Desktop\matrix_legacy\mw2 base\dllmain.cpp(101,77): warning C4474: 'printf' : too many arguments passed for format string
+C:\Users\conno\OneDrive\Desktop\matrix_legacy\mw2 base\dllmain.cpp(101,77): message : placeholders and their parameters expect 0 variadic arguments, but 1 were provided
+C:\Users\conno\OneDrive\Desktop\matrix_legacy\mw2 base\dllmain.cpp(102,77): warning C4474: 'printf' : too many arguments passed for format string
+C:\Users\conno\OneDrive\Desktop\matrix_legacy\mw2 base\dllmain.cpp(102,77): message : placeholders and their parameters expect 0 variadic arguments, but 1 were provided
+C:\Users\conno\OneDrive\Desktop\matrix_legacy\mw2 base\dllmain.cpp(103,77): warning C4474: 'printf' : too many arguments passed for format string
+C:\Users\conno\OneDrive\Desktop\matrix_legacy\mw2 base\dllmain.cpp(103,77): message : placeholders and their parameters expect 0 variadic arguments, but 1 were provided
+C:\Users\conno\OneDrive\Desktop\matrix_legacy\mw2 base\dllmain.cpp(104,77): warning C4474: 'printf' : too many arguments passed for format string
+C:\Users\conno\OneDrive\Desktop\matrix_legacy\mw2 base\dllmain.cpp(104,77): message : placeholders and their parameters expect 0 variadic arguments, but 1 were provided
+C:\Users\conno\OneDrive\Desktop\matrix_legacy\mw2 base\dllmain.cpp(105,77): warning C4474: 'printf' : too many arguments passed for format string
+C:\Users\conno\OneDrive\Desktop\matrix_legacy\mw2 base\dllmain.cpp(105,77): message : placeholders and their parameters expect 0 variadic arguments, but 1 were provided
+detours.lib(detours.obj) : warning LNK4099: PDB 'detours.pdb' was not found with 'detours.lib(detours.obj)' or at 'C:\Users\conno\OneDrive\Desktop\matrix_legacy\Debug\detours.pdb'; linking object as if no debug info
+detours.lib(modules.obj) : warning LNK4099: PDB 'detours.pdb' was not found with 'detours.lib(modules.obj)' or at 'C:\Users\conno\OneDrive\Desktop\matrix_legacy\Debug\detours.pdb'; linking object as if no debug info
+detours.lib(disasm.obj) : warning LNK4099: PDB 'detours.pdb' was not found with 'detours.lib(disasm.obj)' or at 'C:\Users\conno\OneDrive\Desktop\matrix_legacy\Debug\detours.pdb'; linking object as if no debug info
+  mw2 base.vcxproj -> C:\Users\conno\OneDrive\Desktop\matrix_legacy\Debug\mw2 base.dll
